@@ -41,5 +41,7 @@ A partir de los insights obtenidos, recomiendo una estrategia de campaña multif
 
 ## FORMULAS DAX
 
-![image](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/assets/143855758/ebf7f37d-d63f-444e-8eca-c234e0c41262)
+<p align="center">
+  <img src="https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/assets/143855758/ebf7f37d-d63f-444e-8eca-c234e0c41262" alt="Imagen">
+</p>
 
