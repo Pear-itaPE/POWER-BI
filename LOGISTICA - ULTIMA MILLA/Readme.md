@@ -51,6 +51,20 @@ El objetivo del dashboard es maximizar la eficiencia operacional y la efectivida
 
 🚘El cumplimiento de peso entregado frente al peso requerido se mantiene en un porcentaje excepcionalmente alto, evidenciando una operación logística robusta y confiable.
 
+## RECOMENDACIONES 🚀
+
+📚 La variabilidad en la eficiencia del combustible indica oportunidades para optimizar las rutas. El rango entre el mínimo y máximo de kilómetros por galón sugiere que hay margen para mejorar la eficiencia a través de mejor planificación de ruta o mantenimiento de vehículos.
+
+📚 Con un porcentaje de servicio promedio del 96.43%, el cumplimiento de entregas es alto. Sin embargo, hay margen de mejora, especialmente en casos donde el porcentaje de servicio cae por debajo del promedio.
+
+📚 El promedio de kilómetros por galón proporciona una base para analizar el rendimiento del vehículo y posiblemente ajustar los horarios de mantenimiento para mantener la eficiencia del combustible.
+
+ 📚La diferencia entre el peso requerido y el peso entregado es mínima, indicando que la optimización de carga es efectiva. No obstante, se debe continuar monitoreando para mantener y mejorar la precisión en la carga.
+
+ 📚Aunque el documento no proporciona datos geográficos específicos, el dashboard podría usarse para identificar tendencias en la demanda por ubicación y ajustar la logística de distribución en consecuencia.
+
+ 📚Basándose en el volumen de pedidos y la eficiencia del reparto, la planificación de recursos puede mejorarse al asignar más vehículos y conductores a las rutas con mayor demanda o al reajustar las rutas para mejorar la eficiencia.
+ 
 ## MODELO DE DATOS
 
 <p align="center">
