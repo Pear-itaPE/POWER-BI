@@ -65,7 +65,7 @@ Formulas DAX textuales [aquí](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/
 </p>
 	
 ## DASHBOARD 📶
-Para explorar el dashboard interactivo de Ventas, visita [SALES POWER BI](https://app.powerbi.com/view?r=eyJrIjoiNDdkMjUyMjktNTE2ZC00ZmE2LTgyMDQtMDZiNTM4MmQ2ZTRhIiwidCI6Ijc4ODEzZTVjLWRmODYtNGZhYy04NWI0LTYwOGM0MjZlZmY2NiIsImMiOjR9).
+Para explorar el dashboard interactivo de Ventas, visita [VENTAS POWER BI](https://app.powerbi.com/view?r=eyJrIjoiNDdkMjUyMjktNTE2ZC00ZmE2LTgyMDQtMDZiNTM4MmQ2ZTRhIiwidCI6Ijc4ODEzZTVjLWRmODYtNGZhYy04NWI0LTYwOGM0MjZlZmY2NiIsImMiOjR9).
 
 ![SALES](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/blob/main/SALES/RECURSOS/SALES.png)
 
