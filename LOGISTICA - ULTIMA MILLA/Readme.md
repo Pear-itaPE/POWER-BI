@@ -61,7 +61,7 @@ El objetivo del dashboard es maximizar la eficiencia operacional y la efectivida
 
  📚La diferencia entre el peso requerido y el peso entregado es mínima, indicando que la optimización de carga es efectiva. No obstante, se debe continuar monitoreando para mantener y mejorar la precisión en la carga.
 
- 📚Aunque el documento no proporciona datos geográficos específicos, el dashboard podría usarse para identificar tendencias en la demanda por ubicación y ajustar la logística de distribución en consecuencia.
+ 📚Podría usarse analisis predictivo para identificar tendencias en la demanda por ubicación y ajustar la logística de distribución en consecuencia.
 
  📚Basándose en el volumen de pedidos y la eficiencia del reparto, la planificación de recursos puede mejorarse al asignar más vehículos y conductores a las rutas con mayor demanda o al reajustar las rutas para mejorar la eficiencia.
  
