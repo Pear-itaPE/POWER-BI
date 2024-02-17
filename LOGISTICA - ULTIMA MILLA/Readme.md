@@ -66,7 +66,7 @@ El objetivo del dashboard es maximizar la eficiencia operacional y la efectivida
 ## MODELO DE DATOS
 
 <p align="center">
-  <img src="https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/blob/main/SALES/RECURSOS/MODELO%20DE%20DATOS.png" alt="MODELO DE DATOS">
+  <img src="https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/blob/main/LOGISTICA%20-%20ULTIMA%20MILLA/RECURSOS/MODELO%20DE%20DATOS.png" alt="MODELO DE DATOS">
 </p>
 
 ## FORMULAS DAX
