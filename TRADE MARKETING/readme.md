@@ -75,7 +75,7 @@ Formulas DAX textuales [aquí](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/
 </p>
 
 ## DASHBOARD 📶
-Para explorar el dashboard interactivo de Trade Marketing, visita [Novypro - Trade Marketing Dashboard](https://www.novypro.com/project/trade-marketing).
+Para explorar el dashboard interactivo de Trade Marketing, visita [Trade Marketing POWER BI](https://app.powerbi.com/view?r=eyJrIjoiM2Y0NDViMDctZTlhZC00MWQ4LWIxNTEtOGVlMzFiMTM0MDA2IiwidCI6Ijc4ODEzZTVjLWRmODYtNGZhYy04NWI0LTYwOGM0MjZlZmY2NiIsImMiOjR9&pageName=ReportSection5e833ddf95dcadf2912f).
 
 
 ![OVERVIEW](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/blob/main/TRADE%20MARKETING/RECURSOS/OVERVIEW.png)
