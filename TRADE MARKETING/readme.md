@@ -73,3 +73,7 @@ A partir de los insights obtenidos, recomiendo una estrategia de campaña multif
   <img src="https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/assets/143855758/ebf7f37d-d63f-444e-8eca-c234e0c41262" alt="Imagen">
 </p>
 
+## DASHBOARD 📶
+
+[Recursos de Trade Marketing](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/tree/main/TRADE%20MARKETING/RECURSOS)
+
