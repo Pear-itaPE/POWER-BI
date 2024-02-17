@@ -8,9 +8,13 @@ Versión: 2.124.2028.0 64-bit (diciembre de 2023)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## OBJETIVO📝
+## DESCRIPCIÒN📝
 
 El dashboard está diseñado como una herramienta de inteligencia de negocios para el análisis exhaustivo y multidimensional de los datos de clientes en el ámbito de marketing. Utiliza técnicas avanzadas de visualización de datos para representar de forma intuitiva y accesible una amplia gama de métricas clave. El dashboard integra diversas fuentes de datos y presenta información crucial sobre los patrones de compra, perfiles demográficos, y respuestas a campañas de marketing de los clientes. Está estructurado para facilitar tanto el análisis descriptivo como el diagnóstico, proporcionando insights claros sobre el comportamiento actual del cliente y orientaciones para futuras estrategias de marketing.
+
+## OBJETIVO ✅
+
+El principal objetivo es proporcionar una plataforma analítica que permita a los tomadores de decisiones comprender profundamente las tendencias del consumidor, evaluar la efectividad de las campañas de marketing y optimizar las estrategias de segmentación de clientes. Esto se logra mediante el uso de análisis de datos avanzados, que incluyen técnicas de minería de datos, modelado predictivo y analítica prescriptiva. El dashboard busca transformar datos complejos en información accionable que pueda impulsar decisiones de negocio informadas y estrategias orientadas a resultados.
 
 ## PREGUNTAS DE NEGOCIO💡
 
@@ -38,7 +42,7 @@ La variabilidad en el gasto y los ingresos por país, combinada con la respuesta
 🚀Detalles de Campaña (Página 4): 
 La tasa de respuesta general y el comportamiento de los clientes multirespuesta reflejan la eficacia de las campañas. La participación varía significativamente con factores demográficos, como la edad y el estado civil, lo que sugiere oportunidades para una orientación más granular.
 
-📊 Recomendación para Mejoras en Campañas Futuras:
+## Recomendación para Mejoras en Campañas Futuras 🏷️:
 
 A partir de los insights obtenidos, recomiendo una estrategia de campaña multifacética que:
 
