@@ -1,0 +1,30 @@
+| #  | Columna               | Tipo de Dato | Valores No Nulos | Valores Únicos | Ejemplo de Valor |
+|----|-----------------------|--------------|------------------|----------------|------------------|
+| 1  | ID                    | int64        | 2240             | 2240           | 1826             |
+| 2  | Year_Birth            | int64        | 2240             | 59             | 1970             |
+| 3  | Education             | object       | 2240             | 5              | Graduation       |
+| 4  | Marital_Status        | object       | 2240             | 8              | Divorced         |
+| 5  | Income                | float64      | 2216             | 1974           | 84835.0          |
+| 6  | Kidhome               | int64        | 2240             | 3              | 0                |
+| 7  | Teenhome              | int64        | 2240             | 3              | 0                |
+| 8  | Dt_Customer           | object       | 2240             | 663            | 16/06/2014       |
+| 9  | Recency               | int64        | 2240             | 100            | 0                |
+| 10 | MntWines              | int64        | 2240             | 776            | 189              |
+| 11 | MntFruits             | int64        | 2240             | 158            | 104              |
+| 12 | MntMeatProducts       | int64        | 2240             | 558            | 379              |
+| 13 | MntFishProducts       | int64        | 2240             | 182            | 111              |
+| 14 | MntSweetProducts      | int64        | 2240             | 177            | 189              |
+| 15 | MntGoldProds          | int64        | 2240             | 213            | 218              |
+| 16 | NumDealsPurchases     | int64        | 2240             | 15             | 1                |
+| 17 | NumWebPurchases       | int64        | 2240             | 15             | 4                |
+| 18 | NumCatalogPurchases   | int64        | 2240             | 14             | 4                |
+| 19 | NumStorePurchases     | int64        | 2240             | 14             | 6                |
+| 20 | NumWebVisitsMonth     | int64        | 2240             | 16             | 1                |
+| 21 | AcceptedCmp3          | int64        | 2240             | 2              | 0                |
+| 22 | AcceptedCmp4          | int64        | 2240             | 2              | 0                |
+| 23 | AcceptedCmp5          | int64        | 2240             | 2              | 0                |
+| 24 | AcceptedCmp1          | int64        | 2240             | 2              | 0                |
+| 25 | AcceptedCmp2          | int64        | 2240             | 2              | 0                |
+| 26 | Response              | int64        | 2240             | 2              | 1                |
+| 27 | Complain              | int64        | 2240             | 2              | 0                |
+| 28 | Country               | object       | 2240             | 8              | Spain            |
