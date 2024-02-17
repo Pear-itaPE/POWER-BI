@@ -73,11 +73,8 @@ El objetivo del dashboard es maximizar la eficiencia operacional y la efectivida
 
 ## FORMULAS DAX
 
-Formulas DAX textuales [aquí](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/blob/main/SALES/RECURSOS/DAX.md).
-
- <p align="center">
-  <img src="https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/assets/143855758/3ab70b23-150b-453f-bdbe-8b1e3afbccb7.png" alt="MODELO DE DATOS">
-</p>
+Formulas DAX textuales [Estoy trabajando en ello]
+ 
 	
 ## DASHBOARD 📶
 Para explorar el dashboard interactivo de Ultima Milla, visita [TRACKING ULTIMA MILLA ](https://app.powerbi.com/view?r=eyJrIjoiNDM0NWMzMDQtNDM1Yy00ZGViLTk5MWYtNTQxZjc1NDczODUyIiwidCI6Ijc4ODEzZTVjLWRmODYtNGZhYy04NWI0LTYwOGM0MjZlZmY2NiIsImMiOjR9).
