@@ -19,8 +19,11 @@ El objetivo principal es ofrecer una visión clara del desempeño de ventas de l
 ## PREGUNTAS DE NEGOCIO💡
 
 💳 ¿Cómo han evolucionado las ventas totales a lo largo de los años y por trimestres?
+
 💳 ¿Cuál ha sido el valor promedio de los pedidos en cada año?
+
 💳 ¿Cómo difieren las ventas entre empresas de diferentes tamaños (medianas, pequeñas, grandes)?
+
 💳 ¿Hay patrones estacionales o mensuales en las ventas?
 
 ## Resultados 
