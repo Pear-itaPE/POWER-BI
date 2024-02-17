@@ -51,14 +51,18 @@ Cada uno de estos aspectos proporciona un ángulo único sobre el rendimiento de
 Estos resultados destacan la importancia de analizar las ventas desde múltiples dimensiones para obtener una imagen completa del rendimiento de la empresa.
 
 ## MODELO DE DATOS
+
 <p align="center">
   <img src="https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/blob/main/SALES/RECURSOS/MODELO%20DE%20DATOS.png" alt="MODELO DE DATOS">
 </p>
 
 ## FORMULAS DAX
+
 Formulas DAX textuales [aquí](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/tree/main/SALES/RECURSOS).
-	
-![image](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/raw/main/SALES/RECURSOS/nombre-de-tu-imagen.png)
+
+ <p align="center">
+  <img src="https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/raw/main/SALES/RECURSOS/nombre-de-tu-imagen.png" alt="MODELO DE DATOS">
+</p>
 
 ## DASHBOARD 📶
 Para explorar el dashboard interactivo de Ventas, visita [SALES POWER BI](https://app.powerbi.com/view?r=eyJrIjoiNDdkMjUyMjktNTE2ZC00ZmE2LTgyMDQtMDZiNTM4MmQ2ZTRhIiwidCI6Ijc4ODEzZTVjLWRmODYtNGZhYy04NWI0LTYwOGM0MjZlZmY2NiIsImMiOjR9).
