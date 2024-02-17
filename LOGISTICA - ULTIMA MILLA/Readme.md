@@ -1,4 +1,4 @@
-## ANALISIS DE VENTAS 💰
+## LOGISTICA - ULTIMA MILLA 🚚 
 Entorno: POWER BI
 
 Versión: 2.124.2028.0 64-bit (diciembre de 2023)
@@ -20,28 +20,38 @@ El objetivo del dashboard es maximizar la eficiencia operacional y la efectivida
 
 ## PREGUNTAS DE NEGOCIO💡
 
-💳 ¿Cómo han evolucionado las ventas totales a lo largo de los años y por trimestres?
-💳 ¿Cuál ha sido el valor promedio de los pedidos en cada año?
-💳 ¿Cómo difieren las ventas entre empresas de diferentes tamaños (medianas, pequeñas, grandes)?
-💳 ¿Hay patrones estacionales o mensuales en las ventas?
+🚍 ¿Cómo podemos optimizar las rutas y la planificación de las entregas para mejorar la eficiencia del combustible y reducir costos operativos?
+
+🚍 ¿Cómo se está desempeñando la flota en términos de cumplimiento de entregas y cómo se puede mejorar el porcentaje de nivel de servicio?
+
+🚍 ¿Qué relación hay entre los kilómetros recorridos y el combustible consumido y cómo podemos utilizar esta información para mejorar el mantenimiento y la eficiencia de los vehículos?
+
+🚍 ¿Estamos maximizando la capacidad de carga de los vehículos y cómo afecta esto a la eficiencia general de la flota?
+
+🚍 ¿En qué áreas geográficas estamos viendo un mayor número de pedidos y cómo podemos ajustar nuestra logística para atender mejor estas demandas?
+
+🚍¿Cómo podemos mejorar la planificación de recursos basándonos en las tendencias de los pedidos y la eficiencia del reparto?
 
 ## Resultados 
 
-✅ KPIs Clave de Logística:
+🚛 KPIs Clave de Logística:
 
-Consumo de Combustible: Rendimiento variando entre 316 km/gln y 4186 km/gln, destacando la eficiencia energética.
-Kilometraje Total: 20,403 km recorridos, un indicador de la extensión de las operaciones logísticas.
-Kilómetros por Galón (KM/GLN): Promedio de 1,971 KM/GLN, reflejando la eficiencia en el consumo de combustible.
-Total de Órdenes Entregadas: 268 órdenes, representando la capacidad operativa de la flota.
+🚧Consumo de Combustible: Rendimiento variando entre 316 km/gln y 4186 km/gln, destacando la eficiencia energética.
+🚧Kilometraje Total: 20,403 km recorridos, un indicador de la extensión de las operaciones logísticas.
+🚧Kilómetros por Galón (KM/GLN): Promedio de 1,971 KM/GLN, reflejando la eficiencia en el consumo de combustible.
+🚧Total de Órdenes Entregadas: 268 órdenes, representando la capacidad operativa de la flota.
+
 🔍 Métricas Detalladas:
 
-Fuel-to-Run (FTR): Total de 1,035.31, una medida del combustible utilizado frente a las distancias recorridas.
-Peso Requerido vs. Peso Entregado: Mantenimiento de un alto nivel de servicio con un promedio del 96.43%, lo que indica la precisión en la entrega de pedidos.
+🚧Fuel-to-Run (FTR): Total de 1,035.31, una medida del combustible utilizado frente a las distancias recorridas.
+🚧Peso Requerido vs. Peso Entregado: Mantenimiento de un alto nivel de servicio con un promedio del 96.43%, lo que indica la precisión en la entrega de pedidos.
+
 📈 Resultados del Análisis:
 
-La unidad analizada muestra una alta variabilidad en la eficiencia del combustible, señalando posibles áreas para la optimización de rutas o mantenimiento de vehículos.
-El cumplimiento de peso entregado frente al peso requerido se mantiene en un porcentaje excepcionalmente alto, evidenciando una operación logística robusta y confiable.
-Esta información es esencial para estrategias de mejora continua en logística y operaciones. El uso de estos datos puede impulsar la eficiencia y la satisfacción del cliente en la entrega de pedidos.
+🚦La unidad analizada muestra una alta variabilidad en la eficiencia del combustible, señalando posibles áreas para la optimización de rutas o mantenimiento de vehículos.
+🚦El cumplimiento de peso entregado frente al peso requerido se mantiene en un porcentaje excepcionalmente alto, evidenciando una operación logística robusta y confiable.
+🚦Esta información es esencial para estrategias de mejora continua en logística y operaciones. El uso de estos datos puede impulsar la eficiencia y la satisfacción del cliente en la entrega de pedidos.
+
 ## MODELO DE DATOS
 
 <p align="center">
