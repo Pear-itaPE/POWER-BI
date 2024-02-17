@@ -1,4 +1,4 @@
-## ANALISIS DE VENTAS 💰
+![image](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/assets/143855758/ebc35e7b-9975-40f1-84e3-3f87fd673ef1)![image](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/assets/143855758/9e78aee3-a246-4177-a041-b757654cc336)## ANALISIS DE VENTAS 💰
 Entorno: POWER BI
 
 Versión: 2.124.2028.0 64-bit (diciembre de 2023)
@@ -57,9 +57,10 @@ Estos resultados destacan la importancia de analizar las ventas desde múltiples
 
 ## FORMULAS DAX
 
-<p align="center">
-  <img src="https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/assets/143855758/ebf7f37d-d63f-444e-8eca-c234e0c41262" alt="Imagen">
-</p>
+| Nombre | Expresiòn DAX |
+| --- | --- |
+| `# AVG VENTAS` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
 
 ## DASHBOARD 📶
 Para explorar el dashboard interactivo de Ventas, visita [SALES POWER BI](https://app.powerbi.com/view?r=eyJrIjoiNDdkMjUyMjktNTE2ZC00ZmE2LTgyMDQtMDZiNTM4MmQ2ZTRhIiwidCI6Ijc4ODEzZTVjLWRmODYtNGZhYy04NWI0LTYwOGM0MjZlZmY2NiIsImMiOjR9).
