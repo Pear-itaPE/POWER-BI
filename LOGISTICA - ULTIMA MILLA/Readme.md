@@ -45,6 +45,7 @@ El objetivo del dashboard es maximizar la eficiencia operacional y la efectivida
 
 🚧Total de Órdenes Entregadas: 268 órdenes, representando la capacidad operativa de la flota.
 
+---
 
 🔍 Métricas Detalladas:
 
