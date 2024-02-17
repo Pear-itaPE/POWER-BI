@@ -47,21 +47,21 @@ El objetivo del dashboard es maximizar la eficiencia operacional y la efectivida
 
 ---
 
-🔍 Métricas Detalladas:
+🚛 Métricas Detalladas:
 
-📥Fuel-to-Run (FTR): Total de 1,035.31, una medida del combustible utilizado frente a las distancias recorridas.
+🚧Fuel-to-Run (FTR): Total de 1,035.31, una medida del combustible utilizado frente a las distancias recorridas.
 
-📥Peso Requerido vs. Peso Entregado: Mantenimiento de un alto nivel de servicio con un promedio del 96.43%, lo que indica la precisión en la entrega de pedidos.
+🚧Peso Requerido vs. Peso Entregado: Mantenimiento de un alto nivel de servicio con un promedio del 96.43%, lo que indica la precisión en la entrega de pedidos.
 
 ---
 
-🚥 Resultados del Análisis:
+🚛 Resultados del Análisis:
 
-🚦La unidad analizada muestra una alta variabilidad en la eficiencia del combustible, señalando posibles áreas para la optimización de rutas o mantenimiento de vehículos.
+🚧La unidad analizada muestra una alta variabilidad en la eficiencia del combustible, señalando posibles áreas para la optimización de rutas o mantenimiento de vehículos.
 
-🚦El cumplimiento de peso entregado frente al peso requerido se mantiene en un porcentaje excepcionalmente alto, evidenciando una operación logística robusta y confiable.
+🚧El cumplimiento de peso entregado frente al peso requerido se mantiene en un porcentaje excepcionalmente alto, evidenciando una operación logística robusta y confiable.
 
-🚦Esta información es esencial para estrategias de mejora continua en logística y operaciones. El uso de estos datos puede impulsar la eficiencia y la satisfacción del cliente en la entrega de pedidos.
+🚧Esta información es esencial para estrategias de mejora continua en logística y operaciones. El uso de estos datos puede impulsar la eficiencia y la satisfacción del cliente en la entrega de pedidos.
 
 ## MODELO DE DATOS
 
