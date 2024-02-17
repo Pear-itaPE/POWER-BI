@@ -52,7 +52,7 @@ Estos resultados destacan la importancia de analizar las ventas desde múltiples
 
 ## MODELO DE DATOS
 <p align="center">
-  <img src="https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/blob/main/TRADE%20MARKETING/RECURSOS/MODELO%20DE%20DATOS.png" alt="MODELO DE DATOS">
+  <img src="https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/blob/main/SALES/RECURSOS/MODELO%20DE%20DATOS.png" alt="MODELO DE DATOS">
 </p>
 
 ## FORMULAS DAX
@@ -62,10 +62,7 @@ Estos resultados destacan la importancia de analizar las ventas desde múltiples
 </p>
 
 ## DASHBOARD 📶
-Para explorar el dashboard interactivo de Trade Marketing, visita [Novypro - Trade Marketing Dashboard](https://www.novypro.com/project/trade-marketing).
+Para explorar el dashboard interactivo de Trade Marketing, visita [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDdkMjUyMjktNTE2ZC00ZmE2LTgyMDQtMDZiNTM4MmQ2ZTRhIiwidCI6Ijc4ODEzZTVjLWRmODYtNGZhYy04NWI0LTYwOGM0MjZlZmY2NiIsImMiOjR9).
 
+[SALES PDF](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/blob/main/SALES/RECURSOS/SALES.pdf)
 
-![OVERVIEW](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/blob/main/TRADE%20MARKETING/RECURSOS/OVERVIEW.png)
-![CUSTOMER](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/blob/main/TRADE%20MARKETING/RECURSOS/CUSTOMER.png)
-![COUNTRY](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/blob/main/TRADE%20MARKETING/RECURSOS/COUNTRY.png)
-![CAMPAIGN](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/blob/main/TRADE%20MARKETING/RECURSOS/CAMPAIGN.png)
