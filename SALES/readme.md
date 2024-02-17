@@ -61,7 +61,7 @@ Estos resultados destacan la importancia de analizar las ventas desde múltiples
 Formulas DAX textuales [aquí](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/tree/main/SALES/RECURSOS).
 
  <p align="center">
-  <img src="https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/raw/main/SALES/RECURSOS/nombre-de-tu-imagen.png" alt="MODELO DE DATOS">
+  <img src="https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/assets/143855758/3ab70b23-150b-453f-bdbe-8b1e3afbccb7.png" alt="MODELO DE DATOS">
 </p>
 	
 ![image](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/assets/143855758/3ab70b23-150b-453f-bdbe-8b1e3afbccb7)
