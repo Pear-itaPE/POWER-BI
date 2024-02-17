@@ -74,6 +74,8 @@ A partir de los insights obtenidos, recomiendo una estrategia de campaña multif
 </p>
 
 ## DASHBOARD 📶
+Para explorar el dashboard interactivo de Trade Marketing, visita [Novypro - Trade Marketing Dashboard](https://www.novypro.com/project/trade-marketing).
+
 
 ![OVERVIEW](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/blob/main/TRADE%20MARKETING/RECURSOS/OVERVIEW.png)
 ![CUSTOMER](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/blob/main/TRADE%20MARKETING/RECURSOS/CUSTOMER.png)
