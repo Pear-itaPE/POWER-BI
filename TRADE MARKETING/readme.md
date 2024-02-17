@@ -39,3 +39,99 @@ A partir de los insights obtenidos, recomiendo una estrategia de campaña multif
   <img src="https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/blob/main/TRADE%20MARKETING/RECURSOS/MODELO%20DE%20DATOS.png" alt="MODELO DE DATOS">
 </p>
 
+## FORMULAS DAX
+
+Nombre	Expresión DAX
+	
+# COUNTRYS	DISTINCTCOUNT(marketing_data[Country])
+ 	 
+% COMPLAINTS	CALCULATE(
+	    SUMX(marketing_data, marketing_data[Complain]),
+	    marketing_data[Complain] = 1
+	) / COUNTROWS(marketing_data) * 1
+	
+AVG (AGE/INCOMES/RECENCY)	AVERAGE(marketing_data[Name])
+	
+purchasing channel 	SUM(marketing_data[NumDealsPurchases]) +
+	SUM(marketing_data[NumWebPurchases]) +
+	SUM(marketing_data[NumCatalogPurchases]) +
+	SUM(marketing_data[NumStorePurchases]) 
+	
+MultipleClientsCampaigns	CALCULATE(
+	    COUNTROWS(marketing_data), 
+	    marketing_data[AcceptedCmp1] + marketing_data[AcceptedCmp2] + marketing_data[AcceptedCmp3] + marketing_data[AcceptedCmp4] + marketing_data[AcceptedCmp5] > 1
+	)
+	
+CMP RESPONSE	DIVIDE(
+	    SUM(marketing_data[Response]), 
+	    COUNTROWS(marketing_data), 
+	    0
+	) * 1
+	
+CMP[1,2,3,4,5]	DIVIDE(
+	    SUM(marketing_data[Name]), 
+	    COUNTROWS(marketing_data), 
+	    0
+	) * 1
+	
+WithResponseCampaigns	COUNTROWS(
+	    FILTER(
+	        marketing_data, 
+	        (marketing_data[AcceptedCmp1] + marketing_data[AcceptedCmp2] + 
+	         marketing_data[AcceptedCmp3] + marketing_data[AcceptedCmp4] + 
+	         marketing_data[AcceptedCmp5] + marketing_data[Response]) = 1
+	    )
+	)
+	
+DEALS PURCHASES	SUM(marketing_data[NumDealsPurchases])
+	
+TOTAL (FISH/FRUITS/GOLD/WINES	SUM(marketing_data[Name])
+/MEAT/SWEET)
+	
+INCOMES	SUM(marketing_data[MntWines]) + SUM(marketing_data[MntFruits]) + SUM(marketing_data[MntMeatProducts]) + SUM(marketing_data[MntFishProducts]) + SUM(marketing_data[MntSweetProducts]) + SUM(marketing_data[MntGoldProds])
+	
+LTV 	DIVIDE(
+	    [INCOMES], 
+	    COUNTROWS(marketing_data),
+	    0
+	)
+	
+MEDIAN INCOMES	MEDIAN(marketing_data[ Income ])
+	
+No Teenagers / No Children	 CALCULATE
+	 (
+	    COUNTROWS(marketing_data),
+	    marketing_data[Name]=0
+	 )
+	
+One Child / One Teenagers	CALCULATE
+	(
+	        COUNTROWS(marketing_data), 
+	        marketing_data[Name] = 1
+	)
+ 	
+AverageExpenseTotal	
+	VAR TotalWines = SUM(marketing_data[MntWines])
+	VAR TotalFruits = SUM(marketing_data[MntFruits])
+	VAR TotalMeat = SUM(marketing_data[MntMeatProducts])
+	VAR TotalFish = SUM(marketing_data[MntFishProducts])
+	VAR TotalSweets = SUM(marketing_data[MntSweetProducts])
+	VAR TotalGold = SUM(marketing_data[MntGoldProds])
+	VAR TotalGastos = TotalWines + TotalFruits + TotalMeat + TotalFish + TotalSweets + TotalGold
+	VAR NumeroClientes = COUNTROWS(marketing_data)
+	RETURN
+	TotalGastos / NumeroClientes
+	
+ 	
+Total customer	COUNTROWS(marketing_data)
+	
+Z CHILD = 	SUMX(marketing_data,marketing_data[Kidhome])
+ 	
+Two Children/Two Teenagers	 CALCULATE
+	 (
+	    COUNTROWS(marketing_data),
+	    marketing_data[Name]=2
+	 )
+
+![image](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/assets/143855758/ebf7f37d-d63f-444e-8eca-c234e0c41262)
+
