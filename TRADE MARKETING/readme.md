@@ -34,4 +34,4 @@ A partir de los insights obtenidos, recomiendo una estrategia de campaña multif
 
 🎯El uso efectivo de Business Intelligence y análisis de datos no solo mejorará el rendimiento de las campañas individuales, sino que también contribuirá a una estrategia de marketing integral más robusta y basada en datos.
 
-## [Reports]([https://github.com/tushar2704/Sales-for-Retail-and-Food-Services/tree/main/reports](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/blob/main/TRADE%20MARKETING/RECURSOS/MODELO%20DE%20DATOS.png)https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/blob/main/TRADE%20MARKETING/RECURSOS/MODELO%20DE%20DATOS.png)
+![Imagen](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/blob/main/TRADE%20MARKETING/RECURSOS/MODELO%20DE%20DATOS.png)
