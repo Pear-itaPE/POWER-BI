@@ -37,19 +37,25 @@ El objetivo del dashboard es maximizar la eficiencia operacional y la efectivida
 🚛 KPIs Clave de Logística:
 
 🚧Consumo de Combustible: Rendimiento variando entre 316 km/gln y 4186 km/gln, destacando la eficiencia energética.
+
 🚧Kilometraje Total: 20,403 km recorridos, un indicador de la extensión de las operaciones logísticas.
+
 🚧Kilómetros por Galón (KM/GLN): Promedio de 1,971 KM/GLN, reflejando la eficiencia en el consumo de combustible.
+
 🚧Total de Órdenes Entregadas: 268 órdenes, representando la capacidad operativa de la flota.
 
 🔍 Métricas Detalladas:
 
-🚧Fuel-to-Run (FTR): Total de 1,035.31, una medida del combustible utilizado frente a las distancias recorridas.
-🚧Peso Requerido vs. Peso Entregado: Mantenimiento de un alto nivel de servicio con un promedio del 96.43%, lo que indica la precisión en la entrega de pedidos.
+📥Fuel-to-Run (FTR): Total de 1,035.31, una medida del combustible utilizado frente a las distancias recorridas.
 
-📈 Resultados del Análisis:
+📥Peso Requerido vs. Peso Entregado: Mantenimiento de un alto nivel de servicio con un promedio del 96.43%, lo que indica la precisión en la entrega de pedidos.
+
+🚥 Resultados del Análisis:
 
 🚦La unidad analizada muestra una alta variabilidad en la eficiencia del combustible, señalando posibles áreas para la optimización de rutas o mantenimiento de vehículos.
+
 🚦El cumplimiento de peso entregado frente al peso requerido se mantiene en un porcentaje excepcionalmente alto, evidenciando una operación logística robusta y confiable.
+
 🚦Esta información es esencial para estrategias de mejora continua en logística y operaciones. El uso de estos datos puede impulsar la eficiencia y la satisfacción del cliente en la entrega de pedidos.
 
 ## MODELO DE DATOS
