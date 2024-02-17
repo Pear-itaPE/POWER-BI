@@ -53,6 +53,7 @@ El objetivo del dashboard es maximizar la eficiencia operacional y la efectivida
 
 📥Peso Requerido vs. Peso Entregado: Mantenimiento de un alto nivel de servicio con un promedio del 96.43%, lo que indica la precisión en la entrega de pedidos.
 
+---
 
 🚥 Resultados del Análisis:
 
