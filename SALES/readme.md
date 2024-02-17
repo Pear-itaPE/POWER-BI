@@ -64,5 +64,5 @@ Estos resultados destacan la importancia de analizar las ventas desde múltiples
 ## DASHBOARD 📶
 Para explorar el dashboard interactivo de Trade Marketing, visita [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDdkMjUyMjktNTE2ZC00ZmE2LTgyMDQtMDZiNTM4MmQ2ZTRhIiwidCI6Ijc4ODEzZTVjLWRmODYtNGZhYy04NWI0LTYwOGM0MjZlZmY2NiIsImMiOjR9).
 
-[SALES PDF](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/blob/main/SALES/RECURSOS/SALES.pdf)
+[SALES ](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/blob/main/SALES/RECURSOS/SALES.png)
 
