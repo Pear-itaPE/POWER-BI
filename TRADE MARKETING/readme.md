@@ -1,6 +1,10 @@
-📊ANALISIS DE TRADE MARKETING AL DATASET
+## 📊ANALISIS DE TRADE MARKETING AL DATASET
+Entorno: POWER BI 
+[![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+Versión: 2.124.2028.0 64-bit (diciembre de 2023)
 
-https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign 
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
 
 🚀Rendimiento Financiero y Demográfico (Página 1): 
 Los ingresos totales y la cantidad de clientes sugieren una base de clientes sustancial y diversa, con la recencia promedio indicando un compromiso razonablemente reciente. La distribución del gasto en productos revela preferencias de consumo clave que podrían influir en futuras estrategias de inventario.
