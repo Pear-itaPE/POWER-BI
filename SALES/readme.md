@@ -57,10 +57,22 @@ Estos resultados destacan la importancia de analizar las ventas desde múltiples
 
 ## FORMULAS DAX
 
-| Nombre | Expresiòn DAX |
-| --- | --- |
-| `# AVG VENTAS` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+| Nombre                | Expresión DAX                                                                                                                  |
+|-----------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| # AVG VENTAS          | AVERAGE(VENTAS[VENTAS])                                                                                                       |
+| # TRATOS              | COUNT(VENTAS[TAMAÑO_TRATOS])                                                                                                  |
+| # VENTAS              | SUM(VENTAS[VENTAS])                                                                                                           |
+| # CANTIDAD            | SUM(VENTAS[CANTIDAD PEDIDA])                                                                                                  |
+| AVG CANTIDAD          | VARGE(VENTAS[CANTIDAD PEDIDA])                                                                                                |
+| COLORES MAX-MIN       | VAR VentasMax = MAXX(ALL(CalendarTable[Month Name],CalendarTable[Month]), [#Ventas]) ...                                     |
+| COLORES PAIS MAX - MIN| VAR VentasMaxP = MAXX(ALLEXCEPT(Lugar,Lugar[Pais_ID]), [#Ventas]) ...                                                         |
+| # VENTAS              | = COUNTROWS(VENTAS)                                                                                                           |
+| COLORES PRODUCTO - MAX| VAR MaxVentasPorProducto = MAXX(ALLEXCEPT(Linea_Producto, Linea_Producto[LÍNEA DE PRODUCTO]), [#Ventas]) ...                  |
+| Crecimiento Ventas YoY| [Ventas Año Actual] - CALCULATE ( [Ventas Año Actual], SAMEPERIODLASTYEAR('CalendarTable'[Date]) )                            |
+| Porcentaje Crecimiento YoY | DIVIDE( [Crecimiento Ventas YoY], [Ventas Año Anterior], BLANK() )                                                          |
+| Ventas Año Actual     | SUM('VENTAS'[VENTAS])                                                                                                         |
+| Ventas Año Anterior   | CALCULATE ( [Ventas Año Actual], SAMEPERIODLASTYEAR('CalendarTable'[Date]) )                                                  |
+
 
 ## DASHBOARD 📶
 Para explorar el dashboard interactivo de Ventas, visita [SALES POWER BI](https://app.powerbi.com/view?r=eyJrIjoiNDdkMjUyMjktNTE2ZC00ZmE2LTgyMDQtMDZiNTM4MmQ2ZTRhIiwidCI6Ijc4ODEzZTVjLWRmODYtNGZhYy04NWI0LTYwOGM0MjZlZmY2NiIsImMiOjR9).
