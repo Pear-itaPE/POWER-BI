@@ -32,6 +32,7 @@ El objetivo del dashboard es maximizar la eficiencia operacional y la efectivida
 
 🚍¿Cómo podemos mejorar la planificación de recursos basándonos en las tendencias de los pedidos y la eficiencia del reparto?
 
+
 ## Resultados 
 
 🚛 KPIs Clave de Logística:
@@ -44,11 +45,13 @@ El objetivo del dashboard es maximizar la eficiencia operacional y la efectivida
 
 🚧Total de Órdenes Entregadas: 268 órdenes, representando la capacidad operativa de la flota.
 
+
 🔍 Métricas Detalladas:
 
 📥Fuel-to-Run (FTR): Total de 1,035.31, una medida del combustible utilizado frente a las distancias recorridas.
 
 📥Peso Requerido vs. Peso Entregado: Mantenimiento de un alto nivel de servicio con un promedio del 96.43%, lo que indica la precisión en la entrega de pedidos.
+
 
 🚥 Resultados del Análisis:
 
