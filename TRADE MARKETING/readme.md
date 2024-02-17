@@ -1,6 +1,7 @@
 ## 📊ANALISIS DE TRADE MARKETING AL DATASET
-Entorno: POWER BI 
+Entorno: POWER BI··
 Versión: 2.124.2028.0 64-bit (diciembre de 2023)
+
 
 [![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 
