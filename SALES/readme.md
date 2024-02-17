@@ -1,4 +1,4 @@
-![image](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/assets/143855758/ebc35e7b-9975-40f1-84e3-3f87fd673ef1)![image](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/assets/143855758/9e78aee3-a246-4177-a041-b757654cc336)## ANALISIS DE VENTAS 💰
+## ANALISIS DE VENTAS 💰
 Entorno: POWER BI
 
 Versión: 2.124.2028.0 64-bit (diciembre de 2023)
@@ -58,7 +58,7 @@ Estos resultados destacan la importancia de analizar las ventas desde múltiples
 
 ## FORMULAS DAX
 
-Formulas DAX textuales [aquí](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/tree/main/SALES/RECURSOS).
+Formulas DAX textuales [aquí](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/blob/main/SALES/RECURSOS/DAX.md).
 
  <p align="center">
   <img src="https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/assets/143855758/3ab70b23-150b-453f-bdbe-8b1e3afbccb7.png" alt="MODELO DE DATOS">
