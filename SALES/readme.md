@@ -56,10 +56,9 @@ Estos resultados destacan la importancia de analizar las ventas desde múltiples
 </p>
 
 ## FORMULAS DAX
-Nombre	Expresión DAX
+Formulas DAX textuales [aquí](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/tree/main/SALES/RECURSOS).
 	
-![image](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/assets/143855758/a20b6549-0d21-4f74-b249-24d811f11200)
-
+![image](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/raw/main/SALES/RECURSOS/nombre-de-tu-imagen.png)
 
 ## DASHBOARD 📶
 Para explorar el dashboard interactivo de Ventas, visita [SALES POWER BI](https://app.powerbi.com/view?r=eyJrIjoiNDdkMjUyMjktNTE2ZC00ZmE2LTgyMDQtMDZiNTM4MmQ2ZTRhIiwidCI6Ijc4ODEzZTVjLWRmODYtNGZhYy04NWI0LTYwOGM0MjZlZmY2NiIsImMiOjR9).
