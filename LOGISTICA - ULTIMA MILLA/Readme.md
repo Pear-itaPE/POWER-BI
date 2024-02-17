@@ -78,6 +78,6 @@ Formulas DAX textuales [aquí](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/
 </p>
 	
 ## DASHBOARD 📶
-Para explorar el dashboard interactivo de Ventas, visita [VENTAS POWER BI](https://app.powerbi.com/view?r=eyJrIjoiNDdkMjUyMjktNTE2ZC00ZmE2LTgyMDQtMDZiNTM4MmQ2ZTRhIiwidCI6Ijc4ODEzZTVjLWRmODYtNGZhYy04NWI0LTYwOGM0MjZlZmY2NiIsImMiOjR9).
+Para explorar el dashboard interactivo de Ventas, visita [TRACKING ULTIMA MILLA ](https://app.powerbi.com/view?r=eyJrIjoiNDM0NWMzMDQtNDM1Yy00ZGViLTk5MWYtNTQxZjc1NDczODUyIiwidCI6Ijc4ODEzZTVjLWRmODYtNGZhYy04NWI0LTYwOGM0MjZlZmY2NiIsImMiOjR9).
 
 ![SALES](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/blob/main/LOGISTICA%20-%20ULTIMA%20MILLA/RECURSOS/DASHBOARD.png)
