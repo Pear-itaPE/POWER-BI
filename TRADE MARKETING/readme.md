@@ -1,4 +1,4 @@
-## 📊ANALISIS DE TRADE MARKETING AL DATASET
+## ANALISIS DE TRADE MARKETING AL DATASET 📈
 Entorno: POWER BI
 
 Versión: 2.124.2028.0 64-bit (diciembre de 2023)
@@ -7,6 +7,24 @@ Versión: 2.124.2028.0 64-bit (diciembre de 2023)
 [![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+## OBJETIVO📝
+
+El dashboard está diseñado como una herramienta de inteligencia de negocios para el análisis exhaustivo y multidimensional de los datos de clientes en el ámbito de marketing. Utiliza técnicas avanzadas de visualización de datos para representar de forma intuitiva y accesible una amplia gama de métricas clave. El dashboard integra diversas fuentes de datos y presenta información crucial sobre los patrones de compra, perfiles demográficos, y respuestas a campañas de marketing de los clientes. Está estructurado para facilitar tanto el análisis descriptivo como el diagnóstico, proporcionando insights claros sobre el comportamiento actual del cliente y orientaciones para futuras estrategias de marketing.
+
+## PREGUNTAS DE NEGOCIO💡
+
+📒¿Cómo se distribuyen los gastos de los clientes en diferentes categorías de productos y qué preferencias de compra se observan?
+
+📒¿Cómo varían los ingresos de los clientes según su estado civil, educación y generación, y cómo se relacionan estas variables con sus patrones de compra?
+
+📒¿Qué canales de venta son más efectivos en términos de número de compras, y cómo varía la eficiencia de estos canales entre diferentes segmentos de clientes?
+
+📒¿Cuál es la efectividad de las distintas campañas de marketing en términos de aceptación de ofertas por parte de los clientes?
+
+📒¿Cómo se pueden segmentar los clientes en base a sus características demográficas y comportamientos de compra para optimizar las estrategias de marketing?
+
+## Resultados 
 
 🚀Rendimiento Financiero y Demográfico (Página 1): 
 Los ingresos totales y la cantidad de clientes sugieren una base de clientes sustancial y diversa, con la recencia promedio indicando un compromiso razonablemente reciente. La distribución del gasto en productos revela preferencias de consumo clave que podrían influir en futuras estrategias de inventario.
