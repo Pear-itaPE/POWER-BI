@@ -35,33 +35,23 @@ El objetivo del dashboard es maximizar la eficiencia operacional y la efectivida
 
 ## Resultados 
 
-🚛 KPIs Clave de Logística:
+🚘Consumo de Combustible: Rendimiento variando entre 316 km/gln y 4186 km/gln, destacando la eficiencia energética.
 
-🚧Consumo de Combustible: Rendimiento variando entre 316 km/gln y 4186 km/gln, destacando la eficiencia energética.
+🚘Kilometraje Total: 20,403 km recorridos, un indicador de la extensión de las operaciones logísticas.
 
-🚧Kilometraje Total: 20,403 km recorridos, un indicador de la extensión de las operaciones logísticas.
+🚘Kilómetros por Galón (KM/GLN): Promedio de 1,971 KM/GLN, reflejando la eficiencia en el consumo de combustible.
 
-🚧Kilómetros por Galón (KM/GLN): Promedio de 1,971 KM/GLN, reflejando la eficiencia en el consumo de combustible.
+🚘Total de Órdenes Entregadas: 268 órdenes, representando la capacidad operativa de la flota.
 
-🚧Total de Órdenes Entregadas: 268 órdenes, representando la capacidad operativa de la flota.
+🚘Fuel-to-Run (FTR): Total de 1,035.31, una medida del combustible utilizado frente a las distancias recorridas.
 
----
+🚘Peso Requerido vs. Peso Entregado: Mantenimiento de un alto nivel de servicio con un promedio del 96.43%, lo que indica la precisión en la entrega de pedidos.
 
-🚛 Métricas Detalladas:
+🚘La unidad analizada muestra una alta variabilidad en la eficiencia del combustible, señalando posibles áreas para la optimización de rutas o mantenimiento de vehículos.
 
-🚧Fuel-to-Run (FTR): Total de 1,035.31, una medida del combustible utilizado frente a las distancias recorridas.
+🚘El cumplimiento de peso entregado frente al peso requerido se mantiene en un porcentaje excepcionalmente alto, evidenciando una operación logística robusta y confiable.
 
-🚧Peso Requerido vs. Peso Entregado: Mantenimiento de un alto nivel de servicio con un promedio del 96.43%, lo que indica la precisión en la entrega de pedidos.
-
----
-
-🚛 Resultados del Análisis:
-
-🚧La unidad analizada muestra una alta variabilidad en la eficiencia del combustible, señalando posibles áreas para la optimización de rutas o mantenimiento de vehículos.
-
-🚧El cumplimiento de peso entregado frente al peso requerido se mantiene en un porcentaje excepcionalmente alto, evidenciando una operación logística robusta y confiable.
-
-🚧Esta información es esencial para estrategias de mejora continua en logística y operaciones. El uso de estos datos puede impulsar la eficiencia y la satisfacción del cliente en la entrega de pedidos.
+🚘Esta información es esencial para estrategias de mejora continua en logística y operaciones. El uso de estos datos puede impulsar la eficiencia y la satisfacción del cliente en la entrega de pedidos.
 
 ## MODELO DE DATOS
 
@@ -78,6 +68,6 @@ Formulas DAX textuales [aquí](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/
 </p>
 	
 ## DASHBOARD 📶
-Para explorar el dashboard interactivo de Ventas, visita [TRACKING ULTIMA MILLA ](https://app.powerbi.com/view?r=eyJrIjoiNDM0NWMzMDQtNDM1Yy00ZGViLTk5MWYtNTQxZjc1NDczODUyIiwidCI6Ijc4ODEzZTVjLWRmODYtNGZhYy04NWI0LTYwOGM0MjZlZmY2NiIsImMiOjR9).
+Para explorar el dashboard interactivo de Ultima Milla, visita [TRACKING ULTIMA MILLA ](https://app.powerbi.com/view?r=eyJrIjoiNDM0NWMzMDQtNDM1Yy00ZGViLTk5MWYtNTQxZjc1NDczODUyIiwidCI6Ijc4ODEzZTVjLWRmODYtNGZhYy04NWI0LTYwOGM0MjZlZmY2NiIsImMiOjR9).
 
 ![SALES](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/blob/main/LOGISTICA%20-%20ULTIMA%20MILLA/RECURSOS/DASHBOARD.png)
