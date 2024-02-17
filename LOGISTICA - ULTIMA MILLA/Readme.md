@@ -51,8 +51,6 @@ El objetivo del dashboard es maximizar la eficiencia operacional y la efectivida
 
 🚘El cumplimiento de peso entregado frente al peso requerido se mantiene en un porcentaje excepcionalmente alto, evidenciando una operación logística robusta y confiable.
 
-🚘Esta información es esencial para estrategias de mejora continua en logística y operaciones. El uso de estos datos puede impulsar la eficiencia y la satisfacción del cliente en la entrega de pedidos.
-
 ## MODELO DE DATOS
 
 <p align="center">
