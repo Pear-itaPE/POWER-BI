@@ -66,10 +66,10 @@ El objetivo del dashboard es maximizar la eficiencia operacional y la efectivida
  📚Basándose en el volumen de pedidos y la eficiencia del reparto, la planificación de recursos puede mejorarse al asignar más vehículos y conductores a las rutas con mayor demanda o al reajustar las rutas para mejorar la eficiencia.
  
 ## MODELO DE DATOS
+Formulas DAX textuales [aquí](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/blob/main/LOGISTICA%20-%20ULTIMA%20MILLA/RECURSOS/DAX.md)
 
-<p align="center">
-  <img src="https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/blob/main/LOGISTICA%20-%20ULTIMA%20MILLA/RECURSOS/MODELO%20DE%20DATOS.png" alt="MODELO DE DATOS">
-</p>
+![image](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/raw/main/LOGISTICA%20-%20ULTIMA%20MILLA/RECURSOS/845294b1-45c0-4114-9093-94434d30ba1b.png)
+
 
 ## FORMULAS DAX
 
