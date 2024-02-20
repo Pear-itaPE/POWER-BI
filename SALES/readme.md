@@ -1,4 +1,4 @@
-## ANALISIS DE VENTAS 💰
+## ANÁLISIS DE VENTAS 💰
 Entorno: POWER BI
 
 Versión: 2.124.2028.0 64-bit (diciembre de 2023)
