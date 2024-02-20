@@ -1,4 +1,4 @@
-## ANÁLISIS LOGISTICA - ULTIMA MILLA 🚚 
+## ANÁLISIS LOGÍSTICA - ULTIMA MILLA 🚚 
 Entorno: POWER BI
 
 Versión: 2.124.2028.0 64-bit (diciembre de 2023)
