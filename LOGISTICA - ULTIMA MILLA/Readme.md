@@ -71,11 +71,46 @@ Formulas DAX textuales [aquí](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/
  <p align="center">
   <img src="https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/raw/main/LOGISTICA%20-%20ULTIMA%20MILLA/RECURSOS/845294b1-45c0-4114-9093-94434d30ba1b.png" alt="MODELO DE DATOS">
 </p>
+
 ## FORMULAS DAX
 
 Formulas DAX textuales [aquí](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/blob/main/LOGISTICA%20-%20ULTIMA%20MILLA/RECURSOS/DAX.md)
 
 ![image](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/raw/main/LOGISTICA%20-%20ULTIMA%20MILLA/RECURSOS/845294b1-45c0-4114-9093-94434d30
+Nombre	Expresión DAX
+	
+% SERVICIO 	[PESO ENTREGADO]/[PESO REQUERIDO]
+	
+COLORES KM/GL 	VAR RendimientoMax = MAXX(ALL(CalendarTable[Day],CalendarTable[Day]), [RENDIMIENTO])
+	VAR RendimientoMin = MINX(ALL(CalendarTable[Day],CalendarTable[Day]), [RENDIMIENTO])
+	RETURN
+	    SWITCH(
+	        TRUE(),
+	        [RENDIMIENTO] = RendimientoMin, "#FF5A52",  // Rojo para el valor mínimo de rendimiento
+	        [RENDIMIENTO] = RendimientoMax, "#53C22B",  // Marrón para el valor máximo de rendimiento
+	        ""  // Amarillo para todos los demás valores
+	    )
+	
+CONSUMO  	SUM(TRACKING[CONSUMO D2])
+	
+ENTREGAS EFECTUADAS  	SUM(TRACKING[NRO ENTREGAS EFECTUADAS (Nro Guias)])
+	
+ENTREGAS RECHAZADAS  
+	
+KM RECORRIDO 	SUM(TRACKING[KM RECORRIDO (KM Inicial - KM Final)])
+	
+MAX KM/GL 	MAX(TRACKING[KM/GL])
+	
+MIN KM/GL 	MIN(TRACKING[KM/GL])
+	
+PEDIDOS 	COUNTROWS(TRACKING)
+	
+PESO ENTREGADO 	SUM(TRACKING[PESO ENTREGADO])
+	
+PESO REQUERIDO 	 SUM(TRACKING[PESO REQUERIDO])
+	
+RENDIMIENTO 	[KM RECORRIDO]/[CONSUMO]
+![image](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/assets/143855758/86386083-a3c6-433c-a334-f349b585361c)
 
 	
 ## DASHBOARD 📶
