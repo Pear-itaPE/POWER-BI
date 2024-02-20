@@ -68,9 +68,9 @@ El objetivo del dashboard es maximizar la eficiencia operacional y la efectivida
 ## MODELO DE DATOS
 Formulas DAX textuales [aquí](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/blob/main/LOGISTICA%20-%20ULTIMA%20MILLA/RECURSOS/DAX.md)
 
-![image](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/raw/main/LOGISTICA%20-%20ULTIMA%20MILLA/RECURSOS/845294b1-45c0-4114-9093-94434d30ba1b.png)
-
-
+ <p align="center">
+  <img src="https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/raw/main/LOGISTICA%20-%20ULTIMA%20MILLA/RECURSOS/845294b1-45c0-4114-9093-94434d30ba1b.png" alt="MODELO DE DATOS">
+</p>
 ## FORMULAS DAX
 
 Formulas DAX textuales [aquí](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/blob/main/LOGISTICA%20-%20ULTIMA%20MILLA/RECURSOS/DAX.md)
