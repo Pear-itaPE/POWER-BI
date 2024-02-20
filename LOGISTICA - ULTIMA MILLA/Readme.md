@@ -73,8 +73,10 @@ El objetivo del dashboard es maximizar la eficiencia operacional y la efectivida
 
 ## FORMULAS DAX
 
-Formulas DAX textuales [https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/blob/main/LOGISTICA%20-%20ULTIMA%20MILLA/RECURSOS/DAX.md]
- 
+Formulas DAX textuales [aquí](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/blob/main/LOGISTICA%20-%20ULTIMA%20MILLA/RECURSOS/DAX.md)
+
+![image](https://github.com/Pear-itaPE/PORTFOLIO-POWER-BI/raw/main/LOGISTICA%20-%20ULTIMA%20MILLA/RECURSOS/845294b1-45c0-4114-9093-94434d30
+
 	
 ## DASHBOARD 📶
 Para explorar el dashboard interactivo de Ultima Milla, visita [TRACKING ULTIMA MILLA ](https://app.powerbi.com/view?r=eyJrIjoiNDM0NWMzMDQtNDM1Yy00ZGViLTk5MWYtNTQxZjc1NDczODUyIiwidCI6Ijc4ODEzZTVjLWRmODYtNGZhYy04NWI0LTYwOGM0MjZlZmY2NiIsImMiOjR9).
