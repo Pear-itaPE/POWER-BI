@@ -9,4 +9,6 @@ Versión: 2.124.2028.0 64-bit (diciembre de 2023)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## DASHBOARD 📶
+
+Para explorar el dashboard interactivo de Ventas, visita [VENTAS POWER BI](https://www.novypro.com/profile_about/cesarcastro-ju%C3%A1rez?Popup=memberProject&Data=1706017632316x414945574045383360).
 ![COURSES](https://github.com/Pear-itaPE/POWER-BI/blob/main/UDEMY/RECURSOS/UDEMY.png)
